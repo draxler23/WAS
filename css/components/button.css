@@ -1,0 +1,21 @@
+.btn-blue {
+	background-color: #6D71DD;
+	padding: 10px 10px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	width: 110px;
+
+}
+.btn-blue:hover {
+	background-color: black;
+	color: white;
+}
+#yepa {
+	margin-left: 415px;
+	margin-bottom: 50px;
+	font-weight: bold;
+
+
+}
